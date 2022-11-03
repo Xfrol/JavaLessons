@@ -49,6 +49,7 @@ public class Human {
         System.out.println(mother.toString());
         System.out.println(son.toString());
         System.out.println(daughter.toString());
+        System.out.println();
 
 
     }
